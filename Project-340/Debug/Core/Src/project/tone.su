@@ -1,0 +1,8 @@
+../Core/Src/project/tone.c:42:6:SysTick_Handler	4	static
+../Core/Src/project/tone.c:52:10:hertz_to_midi_ticks	24	static
+../Core/Src/project/tone.c:63:10:get_counter	4	static
+../Core/Src/project/tone.c:67:6:reset_counter	4	static
+../Core/Src/project/tone.c:72:9:add_tone	24	static
+../Core/Src/project/tone.c:78:9:remove_tone	16	static
+../Core/Src/project/tone.c:86:6:play_tones	32	static
+../Core/Src/project/tone.c:115:7:get_frequency_from_note	16	static

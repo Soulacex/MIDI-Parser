@@ -1,0 +1,4 @@
+../Core/Src/activities/activity8.c:17:6:read_and_echo_byte	16	static
+../Core/Src/activities/activity8.c:28:7:readline	16	static
+../Core/Src/activities/activity8.c:42:6:readlines	8	static
+../Core/Src/activities/activity8.c:48:6:read_bytes	8	static

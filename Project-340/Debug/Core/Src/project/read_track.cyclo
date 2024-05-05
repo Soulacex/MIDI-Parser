@@ -1,0 +1,6 @@
+../Core/Src/project/read_track.c:48:6:read_track	10
+../Core/Src/project/read_track.c:106:9:get_delay	2
+../Core/Src/project/read_track.c:127:6:parse_division	1
+../Core/Src/project/read_track.c:139:10:get_division	1
+../Core/Src/project/read_track.c:153:10:parse_meta_event	3
+../Core/Src/project/read_track.c:177:14:get_song_header	1

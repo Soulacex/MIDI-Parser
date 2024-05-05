@@ -1,0 +1,3 @@
+../Core/Src/project/uint_converters.c:26:10:convert_into_uint16	1
+../Core/Src/project/uint_converters.c:41:10:convert_into_uint24	1
+../Core/Src/project/uint_converters.c:56:10:convert_into_uint32	1

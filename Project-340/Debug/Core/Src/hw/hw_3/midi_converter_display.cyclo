@@ -1,0 +1,2 @@
+../Core/Src/hw/hw_3/midi_converter_display.c:35:6:use_uint16_header	1
+../Core/Src/hw/hw_3/midi_converter_display.c:55:6:use_uint32_header	1

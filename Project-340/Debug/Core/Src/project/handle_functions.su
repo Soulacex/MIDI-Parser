@@ -1,0 +1,6 @@
+../Core/Src/project/handle_functions.c:41:6:handle_flash	16	static
+../Core/Src/project/handle_functions.c:63:6:handle_input	32	static
+../Core/Src/project/handle_functions.c:92:6:handle_backspace	24	static
+../Core/Src/project/handle_functions.c:117:6:handle_next	16	static
+../Core/Src/project/handle_functions.c:131:6:handle_play	16	static
+../Core/Src/project/handle_functions.c:148:6:handle_enter	24	static

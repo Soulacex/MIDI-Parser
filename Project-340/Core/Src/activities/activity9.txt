@@ -1,0 +1,14 @@
+Parse the song_0 for title, copyright, and tempo.
+
+Title:
+	Twinkle, Twinkle, Little Star.
+
+Copyright:
+	FF 02 is copyright with a size of 12 (0x0c)
+	The song does not contain any information concerning copyright. I would assume a song like this is in the public domain.
+	
+Tempo:
+	00 FF 51 03 is tempo (FF 51) with 3 data bytes (03).
+	90 beats per min.
+	60000000 / 90 = 631,577 microseconds per quarter note
+	

@@ -1,0 +1,33 @@
+2 unsigned char
+
+1 (carry the one)
+  1000 0010 = 130
++ 1000 0001 = 129
+-------------------
+  0000 0011 = 3
+  
+
+2 signed chars
+  
+ 1 (carry the one)
+  1000 0010 = -126
+  1000 0001 = -127
+  ----------------
+  0000 0011 = 3
+  
+2 signed chars
+
+  11
+  0110 0001
++ 0011 0010
+------------
+  1001 0011
+  
+  
+unsigned char c1 = 0001 0010
+signed char c2 = 1110 1001
+                 ---------
+                 0000  1011
+
+unsigned char c3 = c1 + c2;
+signed char c3 = c1 + c2;
